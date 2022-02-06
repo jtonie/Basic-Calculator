@@ -12,4 +12,4 @@ elif op == "/":
 elif op == "*":
     print( num1 * num2)
 else:
-    print("That is not an Operator.")
+    print("That is not an Operator. (+ / * -)")
